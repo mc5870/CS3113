@@ -1,0 +1,42 @@
+﻿  main.cpp
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(109): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(265): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(279): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(280): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(287): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(288): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(348): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(356): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\cmaik\desktop\game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(457): warning C4101: 'event': unreferenced local variable
+  NYUCodebase.vcxproj -> C:\Users\cmaik\Desktop\Game Programming\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe

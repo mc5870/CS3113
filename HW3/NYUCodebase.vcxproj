@@ -77,10 +77,14 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ShaderProgram.cpp" />
+    <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Entity.h" />
+    <ClInclude Include="GameState.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="ShaderProgram.h" />
+    <ClInclude Include="SheetSprite.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="fragment.glsl" />
